@@ -75,7 +75,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }
     
     yesButton.addEventListener("click", function () {
-        questionText.innerHTML = `<span class="partner-name">${partnerName}</span><br><span class="love-text">I love you baby ❤️</span>`;
+        questionText.innerHTML = `<span class="partner-name">${partnerName}</span><br><span class="love-text">There she is My Valentine ❤️</span>`;
         choiceBox.style.display = "none"; // Hide choices
         threedBox.classList.remove("hide");
 
